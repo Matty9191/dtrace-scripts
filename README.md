@@ -1,1 +1,1 @@
-# dtrace-scripts
+Miscellaneous DTrace scripts.
